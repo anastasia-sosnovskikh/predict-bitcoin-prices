@@ -1,4 +1,6 @@
 # bitcoin
 Predict the Closing Price of Bitcoin
 ---
-presentation.pptx
+### Time Series Forecasting
+
+Please refer to `presentation.pptx` for the quick summary of the project.
