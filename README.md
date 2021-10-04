@@ -60,7 +60,7 @@ Libraries used: `sklearn`, `statsmodels`, `itertools`.
 
 ##### Methods
 * **ARIMA** 
-* **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition*
+* **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition**
 * **Holt-Winters method**
 * **ARIMA with CV**
 
