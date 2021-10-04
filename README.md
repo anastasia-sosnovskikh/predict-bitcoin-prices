@@ -17,7 +17,7 @@ Please refer to  the `research-proposal-and-discussion` for the research rationa
 
 ---
 #### 0. Get the Data
-Scraping the complete Bitcoin Data from 2009 as well as gettingthe following exogenous variables:
+Scraping the complete Bitcoin Data from 2009 as well as getting the following exogenous variables:
 * Gold
 * Crude Oil
 * S&P 500
