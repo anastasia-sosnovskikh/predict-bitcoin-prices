@@ -10,7 +10,7 @@ Please refer to  the `research-proposal-and-discussion` for the research rationa
 * **K-Means with Differencing**: detrending the series to avoid the autocorrelation
 
 * **ARIMA** (tuned based on AIC)
-* **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition*
+* **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition**
 * **Holt-Winters method**
 * **ARIMA with CV** (tuned based on AIC)
 
