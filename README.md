@@ -58,7 +58,7 @@ Libraries used: `sklearn`.
 
 Libraries used: `sklearn`, `statsmodels`, `itertools`.
 
-##### Methods
+##### Methods:
 * **ARIMA** 
 * **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition**
 * **Holt-Winters method**
