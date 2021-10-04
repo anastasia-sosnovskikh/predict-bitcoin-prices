@@ -5,14 +5,15 @@ Predict the Closing Price of Bitcoin in the Next 6 Months
 
 Please refer to  the `research-proposal-and-discussion` for the research rationale and background literature, `presentation` for the quick summary of the project, and the rest of the files for the actual code and analysis.
 
-##### Methods: 
-* **K-means** (tuned based on TSS)
-* **K-Means with Differencing**: detrending the series to avoid the autocorrelation
-
-* **ARIMA** (tuned based on AIC)
-* **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition**
-* **Holt-Winters method**
-* **ARIMA with CV** (tuned based on AIC)
+##### Quick Glance at the Methods: 
+* Unsupervised
+ * **K-means** (tuned based on TSS)
+ * **K-Means with Differencing**: detrending the series to avoid the autocorrelation
+* Supervised
+ * **ARIMA** (tuned based on AIC)
+ * **Single Exponential Smoothing (SES) with Seasonal and Trend decomposition using Loess (STL) Decomposition**
+ * **Holt-Winters method**
+ * **ARIMA with CV** (tuned based on AIC)
 
 ---
 #### 0. Get the Data
