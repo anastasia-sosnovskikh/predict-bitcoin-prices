@@ -1,7 +1,8 @@
 # bitcoin
 Predict the Closing Price of Bitcoin in the Next 6 Months
 ---
-*The project is done in `python`.*
+*The project is done in `python` using the following libraries:  
+`numpy`, `pandas`, `seaborn`, `matplotlib`, `sklearn`, `statsmodels`, `itertools`*
 
 
 ### Time Series Forecasting
@@ -49,7 +50,7 @@ Observed and seasonally adjusted trends are compared.
 
 #### 2. Unsupervised Learning
 
-Libraries used: `sklearn`.
+Libraries used: `sklearn`
 
 ##### Models
 * Clustering (with tuning)
@@ -60,7 +61,7 @@ Libraries used: `sklearn`.
 
 #### 2. Supervised Learning
 
-Libraries used: `sklearn`, `statsmodels`, `itertools`.
+Libraries used: `sklearn`, `statsmodels`, `itertools`
 
 ##### Methods:
 * **ARIMA** 
