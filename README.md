@@ -1,8 +1,7 @@
 # bitcoin
 Predict the Closing Price of Bitcoin in the Next 6 Months
 ---
-*The project is done in `python` using the following libraries:  
-`numpy`, `pandas`, `seaborn`, `matplotlib`, `sklearn`, `statsmodels`, `itertools`*
+*The project is done in `python` using the following libraries: `numpy`, `pandas`, `seaborn`, `matplotlib`, `sklearn`, `statsmodels`, `itertools`*
 
 
 ### Time Series Forecasting
